@@ -1,0 +1,82 @@
+<mjml>
+    <mj-body >
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="20px" color="#F45E43" font-family="helvetica">EZAGA</mj-text>
+            </mj-column>
+
+        </mj-section>
+        <mj-divider border-color="#F45E43"></mj-divider>
+        <mj-section>
+            <mj-column background-color="#f0f0f0">
+                <mj-text align="left" >
+                    <h1 style="color:#F45E43">Welcome to the EZAGA Newsletter</h1>
+                    <p>Stay updated with the latest features and news from EZAGA.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fafafa">
+            <mj-column>
+                <mj-text>
+                    <h2 style="color:#F45E43">Open your Account in less than 2 minutes!</h2>
+                    <p>Discover how our new payment platform is revolutionizing online transactions.</p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-button class="cta-button" href="https://www.ezaga.co.za/">Read More</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section >
+            <mj-column>
+                <mj-text color="#F45E43" padding-bottom="0px" >
+                    <h4 >Convenience</h4>
+                </mj-text>
+                <mj-text font-size="10px" padding-bottom="0px" >
+                    <p>You can deposit money at any ABSA, Nedbank, FNB ATM’s or at Zaga Zones.
+                        You can withdraw money from any Zaga Zone or ATM.</p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#F45E43" padding-bottom="0px" >
+                    <h4>Affordable</h4>
+                </mj-text>
+                <mj-text font-size="10px" padding-bottom="0px" >
+                    <p>With our low fee structure, eZaga saves you zaga (cash) for when you need it the most.</p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#F45E43" padding-bottom="0px" >
+                    <h4>Transparency</h4>
+                </mj-text>
+                <mj-text font-size="10px" padding-bottom="0px" >
+                    <p>Say goodbye to additional fees! We cut straight to the chase with no hidden costs.</p>
+                </mj-text>
+
+            </mj-column>
+            <mj-column>
+                <mj-text color="#F45E43" padding-bottom="0px" >
+                    <h4>Cashback</h4>
+                </mj-text>
+                <mj-text font-size="10px" padding-top="0px">
+                    <p>Get immediate Cashback when you purchase airtime, data, electricity or pay your DStv subscription using your eeZi Account.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#f0f0f0">
+            <mj-column>
+                <mj-text>
+                    <p>DoshFX is an authorized juristic representative of eZagaFX –
+                        an authorized financial services provider with fsp no. 44133</p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text>
+                    <p>Terms, conditions and standard rates apply. eZaga Holdings (Pty) Ltd,
+                        an Alliance Partner of Access Bank South Africa Limited,
+                        Access Bank is an authorised Financial Services Provider (FSP5865, NCRCP6).
+                        Reg. No.: 1947/025414/06</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
